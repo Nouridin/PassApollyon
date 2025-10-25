@@ -1,0 +1,9 @@
+MVP.md
+
+.vscode/
+.idea
+build
+
+*.o
+*.exe
+*.pa
